@@ -1,0 +1,1 @@
+console.log("Yo can shop your favorite item in this store");
